@@ -40,7 +40,7 @@
 
 下载或 Clone 此 repo 并在 Visual Studio 2022 中打开 “machine-learning” 文件夹以开始使用机器学习 Notebooks 。  或者可以点击下面的 Notebook 的任意链接可以启动 Visual Studio 中打开它！
 
-**需要 [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) 和 [Notebook Editor Extension](https://marketplace.visualstudio.com/items?itemName=MLNET.notebook) 0.3.4 或更高版本**
+**需要 [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) 和 [Notebook 编辑器扩展](https://marketplace.visualstudio.com/items?itemName=MLNET.notebook) 0.3.4 或更高版本**
 
 ### **入门系列**
 

@@ -8,7 +8,14 @@
 1. 下载  .NET Coding Pack for VS Code for [Windows](https://aka.ms/dotnet-coding-pack-win) 或 [macOS](https://aka.ms/dotnet-coding-pack-mac).
 2. 安装插件 [.NET Interactive Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) extension.
 
-### **Notebooks 基础学习**
+### **Visual Studio**
+1. 下载和安装 [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
+2. 下载和安装 [Notebook Editor Extension](https://marketplace.visualstudio.com/items?itemName=MLNET.notebook)
+
+更多的信息和学习资源可以访问 [Learn to code C#](https://dotnet.microsoft.com/learntocode).
+
+
+## **Notebooks 基础学习**
 
 | # | 主题                         | Notebook 链接         | 
 |---|-------------------------------|-----------------------|
@@ -16,12 +23,6 @@
 2| Code Cells 介绍 | [02 Code Cells 介绍](https://github.com/kinfey/csharp-notebooks/blob/main/notebook-getting-started/02-Code%20Cells.ipynb) |
 3| Markdown Cells 介绍 | [03 Markdown Cells 介绍](https://github.com/kinfey/csharp-notebooks/blob/main/notebook-getting-started/01-What%20are%20Notebooks.ipynb) |
 REF| VS Notebook 编辑器快捷键介绍 | [VS Notebook 编辑器快捷键](https://github.com/kinfey/csharp-notebooks/blob/main/notebook-getting-started/REF-VS%20Keyboard%20Shortcuts.ipynb) |
-
-### **Visual Studio**
-1. 下载和安装 [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
-2. 下载和安装 [Notebook Editor Extension](https://marketplace.visualstudio.com/items?itemName=MLNET.notebook)
-
-更多的信息和学习资源可以访问 [Learn to code C#](https://dotnet.microsoft.com/learntocode).
 
 ## **C# 101**
 

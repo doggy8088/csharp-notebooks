@@ -8,7 +8,7 @@
 1. 下载  .NET Coding Pack for VS Code for [Windows](https://aka.ms/dotnet-coding-pack-win) 或 [macOS](https://aka.ms/dotnet-coding-pack-mac).
 2. 安装插件 [.NET Interactive Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) extension.
 
-### ** Notebooks 学习**
+### **Notebooks 基础学习**
 
 | # | 主题                         | Notebook 链接         | 
 |---|-------------------------------|-----------------------|

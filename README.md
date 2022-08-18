@@ -18,7 +18,7 @@
 
 下载或 clone 此 repo 并在 VS Code 中打开 “csharp-101” 文件夹以开始使用 C# 101 相关 Notebooks 。 或者可以点击下面的 Notebook 的任意链接可以启动 VS Code 中打开它！
 
-| # | Topic                         | Notebook Link         | Video Link | Documentation |
+| # | 主题                         | Notebook 链接         | 视频链接 | 文档 |
 |---|-------------------------------|-----------------------|------------|---------------|
 1  | Hello World                   | [01 Notebook](https://ntbk.io/csharp101-notebook01) | [01 Video](https://www.youtube.com/watch?v=KT2VR7m19So&list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN&index=2) | [C# 介绍](https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/tutorials/hello-world?WT.mc_id=csharpnotebook-35129-website)
 2  | 字符串基础         | [02 Notebook](https://ntbk.io/csharp101-notebook02) | [02 Video](https://www.youtube.com/watch?v=JSpC7Cz64h0&list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN&index=3) | [C# 介绍](https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/tutorials/hello-world?WT.mc_id=csharpnotebook-35129-website)
@@ -44,7 +44,7 @@
 
 ### **入门系列**
 
-| # | Topic                                      | VS Notebook Link                               | Github Link |
+| # | 主题                                     | VS Notebook 链接                              | Github 链接 |
 |---|--------------------------------------------|------------------------------------------------|-------------|
 1  | 机器学习介绍                  | [01 Notebook](https://ntbk.io/ml-01-intro)     | [01 Notebook](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/01-Intro%20to%20Machine%20Learning.ipynb) 
 2  | 数据准备和特征工程           | [02 Notebook](https://ntbk.io/ml-02-data)      | [02 Notebook](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/02-Data%20Preparation%20and%20Feature%20Engineering.ipynb)
@@ -52,7 +52,7 @@
 4  | 模型评估                           | [04 Notebook](https://ntbk.io/ml-04-evaluation)| [04 Notebook](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/04-Model%20Evaluation.ipynb)                      
 
 ### **实战系列**.
-| # | Topic                                      | VS Notebook Link                                                          | Github Link |
+| # | Topic                                      | VS Notebook 链接                                                         | Github 链接 |
 |---|--------------------------------------------|---------------------------------------------------------------------------|-------------|
 E2E | 使用 AutoML 进行分类 (鸢尾花数据集) | [Iris E2E AutoML](https://ntbk.io/ml-e2e-iris)                            | [Iris E2E AutoML](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/E2E-Classification%20with%20Iris%20Dataset.ipynb)           
 E2E | 使用回归进行预测 (Luna 数据集)| [Luna E2E Regression](https://ntbk.io/ml-e2e-luna-regression)             | [Luna E2E Regression](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/E2E-Forecasting%20using%20Regression%20with%20Luna%20Dataset.ipynb)                     
@@ -62,7 +62,7 @@ E2E | 文本分类 API (Yelp 数据集)     | [Text Classification API](https://
 
 
 ### **引用 Notebooks**
-| # | Topic                                      | VS Notebook Link                                      | Github Link |
+| # | Topic                                      | VS Notebook 链接                                     | Github 链接 |
 |---|--------------------------------------------|-------------------------------------------------------|-------------|
 REF | 使用 DataFrame 进行数据处理             |[Data Frame](https://ntbk.io/ml-ref-data-frame)        | [Data Frame](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/REF-Data%20Processing%20with%20DataFrame.ipynb)               
 REF | 图表和可视化                 |[Visualizations](https://ntbk.io/ml-ref-visualizations)| [Visualizations](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/REF-Graphs%20and%20Visualizations.ipynb)

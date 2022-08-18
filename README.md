@@ -13,6 +13,9 @@
 | # | 主题                         | Notebook 链接         | 
 |---|-------------------------------|-----------------------|
 1| Notebooks 介绍 | [01 Notebook 介绍](https://github.com/kinfey/csharp-notebooks/blob/main/notebook-getting-started/01-What%20are%20Notebooks.ipynb) |
+2| Code Cells 介绍 | [02 Code Cells 介绍](https://github.com/kinfey/csharp-notebooks/blob/main/notebook-getting-started/02-Code%20Cells.ipynb) |
+3| Markdown Cells 介绍 | [03 Markdown Cells 介绍](https://github.com/kinfey/csharp-notebooks/blob/main/notebook-getting-started/01-What%20are%20Notebooks.ipynb) |
+REF| VS Notebook 编辑器快捷键介绍 | [VS Notebook 编辑器快捷键](https://github.com/kinfey/csharp-notebooks/blob/main/notebook-getting-started/REF-VS%20Keyboard%20Shortcuts.ipynb) |
 
 ### **Visual Studio**
 1. 下载和安装 [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)

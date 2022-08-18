@@ -12,7 +12,7 @@
 
 | # | 主题                         | Notebook 链接         | 
 |---|-------------------------------|-----------------------|
-1| Notebooks 介绍 | https://github.com/kinfey/csharp-notebooks/blob/main/notebook-getting-started/01-What%20are%20Notebooks.ipynb |
+1| Notebooks 介绍 | [01 Notebook 介绍](https://github.com/kinfey/csharp-notebooks/blob/main/notebook-getting-started/01-What%20are%20Notebooks.ipynb) |
 
 ### **Visual Studio**
 1. 下载和安装 [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)

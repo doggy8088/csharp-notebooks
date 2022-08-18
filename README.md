@@ -8,6 +8,12 @@
 1. 下载  .NET Coding Pack for VS Code for [Windows](https://aka.ms/dotnet-coding-pack-win) 或 [macOS](https://aka.ms/dotnet-coding-pack-mac).
 2. 安装插件 [.NET Interactive Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) extension.
 
+### ** Notebooks 学习**
+
+| # | 主题                         | Notebook 链接         | 
+|---|-------------------------------|-----------------------|
+1| Notebooks 介绍 | https://github.com/kinfey/csharp-notebooks/blob/main/notebook-getting-started/01-What%20are%20Notebooks.ipynb |
+
 ### **Visual Studio**
 1. 下载和安装 [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
 2. 下载和安装 [Notebook Editor Extension](https://marketplace.visualstudio.com/items?itemName=MLNET.notebook)

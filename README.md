@@ -17,7 +17,7 @@
 
 ## **Notebooks 基础学习**
 
-| # | 主题                         | Notebook 链接         | 
+| # | 主题                         | GitHub 链接         | 
 |---|-------------------------------|-----------------------|
 1| Notebooks 介绍 | [01 Notebook 介绍](https://github.com/kinfey/csharp-notebooks/blob/main/notebook-getting-started/01-What%20are%20Notebooks.ipynb) |
 2| Code Cells 介绍 | [02 Code Cells 介绍](https://github.com/kinfey/csharp-notebooks/blob/main/notebook-getting-started/02-Code%20Cells.ipynb) |

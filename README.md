@@ -67,7 +67,7 @@ REF| VS Notebook 编辑器快捷键介绍 | [VS Notebook 编辑器快捷键](htt
 E2E | 使用 AutoML 进行分类 (鸢尾花数据集) | [Iris E2E AutoML](https://ntbk.io/ml-e2e-iris)                            | [Iris E2E AutoML](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/E2E-Classification%20with%20Iris%20Dataset.ipynb)           
 E2E | 使用回归进行预测 (Luna 数据集)| [Luna E2E Regression](https://ntbk.io/ml-e2e-luna-regression)             | [Luna E2E Regression](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/E2E-Forecasting%20using%20Regression%20with%20Luna%20Dataset.ipynb)                     
 E2E | 使用 SSA 进行预测 (Luna数据集)       | [Luna E2E SSA](https://ntbk.io/ml-e2e-luna-ssa)                           | [Luna E2E SSA](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/E2E-Forecasting%20using%20SSA%20with%20Luna%20Dataset.ipynb)   
-E2E | 使用 AutoML 进行回归 (出租车数据集)     | [Taxi E2E AutoML](https://ntbk.io/ml-e2e-taxi)                            | [Taxi E2E AutoML](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/E2E-Regression%20with%20Taxi%20Dataset.ipynbb)          
+E2E | 使用 AutoML 进行回归 (出租车数据集)     | [Taxi E2E AutoML](https://ntbk.io/ml-e2e-taxi)                            | [Taxi E2E AutoML](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/E2E-Regression%20with%20Taxi%20Dataset.ipynb)          
 E2E | 文本分类 API (Yelp 数据集)     | [Text Classification API](https://ntbk.io/ml-e2e-text-classification-api) | [Text Classification API](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/E2E-Text-Classification-API-with-Yelp-Dataset.ipynb)          
 
 

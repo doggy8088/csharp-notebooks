@@ -61,7 +61,7 @@ REF| VS Notebook 编辑器快捷键介绍 | [VS Notebook 编辑器快捷键](htt
 3  | 训练和 AutoML                         | [03 Notebook](https://ntbk.io/ml-03-training)  | [03 Notebook](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/03-Training%20and%20AutoML.ipynb)
 4  | 模型评估                           | [04 Notebook](https://ntbk.io/ml-04-evaluation)| [04 Notebook](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/04-Model%20Evaluation.ipynb)                      
 
-### **实战系列**.
+### **实战系列**
 | # | Topic                                      | VS Notebook 链接                                                         | Github 链接 |
 |---|--------------------------------------------|---------------------------------------------------------------------------|-------------|
 E2E | 使用 AutoML 进行分类 (鸢尾花数据集) | [Iris E2E AutoML](https://ntbk.io/ml-e2e-iris)                            | [Iris E2E AutoML](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/E2E-Classification%20with%20Iris%20Dataset.ipynb)           

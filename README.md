@@ -28,7 +28,7 @@ REF| VS Notebook 编辑器快捷键介绍 | [VS Notebook 编辑器快捷键](htt
 
 下载或 clone 此 repo 并在 VS Code 中打开 “csharp-101” 文件夹以开始使用 C# 101 相关 Notebooks 。 或者可以点击下面的 Notebook 的任意链接可以启动 VS Code 中打开它！
 
-| # | 主题                         | Notebook 链接         | 视频链接 | 文档 |
+| # | 主题                         | Github 链接         | 视频链接 | 文档 |
 |---|-------------------------------|-----------------------|------------|---------------|
 1  | Hello World                   | [01 Notebook](https://github.com/kinfey/csharp-notebooks/blob/main/csharp-101/01-Hello%20World.ipynb) | [01 Video](https://www.youtube.com/watch?v=KT2VR7m19So&list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN&index=2) | [C# 介绍](https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/tutorials/hello-world?WT.mc_id=csharpnotebook-35129-website)
 2  | 字符串基础         | [02 Notebook](https://github.com/kinfey/csharp-notebooks/blob/main/csharp-101/02-The%20Basics%20of%20Strings.ipynb) | [02 Video](https://www.youtube.com/watch?v=JSpC7Cz64h0&list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN&index=3) | [C# 介绍](https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/tutorials/hello-world?WT.mc_id=csharpnotebook-35129-website)

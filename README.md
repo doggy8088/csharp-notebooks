@@ -56,10 +56,10 @@ REF| VS Notebook 编辑器快捷键介绍 | [VS Notebook 编辑器快捷键](htt
 
 | # | 主题                                     | VS Notebook 链接                              | Github 链接 |
 |---|--------------------------------------------|------------------------------------------------|-------------|
-1  | 机器学习介绍                  | [01 Notebook](https://ntbk.io/ml-01-intro)     | [01 Notebook](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/01-Intro%20to%20Machine%20Learning.ipynb) 
-2  | 数据准备和特征工程           | [02 Notebook](https://ntbk.io/ml-02-data)      | [02 Notebook](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/02-Data%20Preparation%20and%20Feature%20Engineering.ipynb)
-3  | 训练和 AutoML                         | [03 Notebook](https://ntbk.io/ml-03-training)  | [03 Notebook](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/03-Training%20and%20AutoML.ipynb)
-4  | 模型评估                           | [04 Notebook](https://ntbk.io/ml-04-evaluation)| [04 Notebook](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/04-Model%20Evaluation.ipynb)                      
+1  | 机器学习介绍                  | [01 Notebook](https://ntbk.io/ml-01-intro)     | [01 Notebook](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/01-Intro%20to%20Machine%20Learning.ipynb) 
+2  | 数据准备和特征工程           | [02 Notebook](https://ntbk.io/ml-02-data)      | [02 Notebook](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/02-Data%20Preparation%20and%20Feature%20Engineering.ipynb)
+3  | 训练和 AutoML                         | [03 Notebook](https://ntbk.io/ml-03-training)  | [03 Notebook](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/03-Training%20and%20AutoML.ipynb)
+4  | 模型评估                           | [04 Notebook](https://ntbk.io/ml-04-evaluation)| [04 Notebook](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/04-Model%20Evaluation.ipynb)                      
 
 ### **实战系列**.
 | # | Topic                                      | VS Notebook 链接                                                         | Github 链接 |

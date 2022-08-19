@@ -74,9 +74,9 @@ E2E | 文本分类 API (Yelp 数据集)     | [Text Classification API](https://
 ### **引用 Notebooks**
 | # | Topic                                      | VS Notebook 链接                                     | Github 链接 |
 |---|--------------------------------------------|-------------------------------------------------------|-------------|
-REF | 使用 DataFrame 进行数据处理             |[Data Frame](https://ntbk.io/ml-ref-data-frame)        | [Data Frame](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/REF-Data%20Processing%20with%20DataFrame.ipynb)               
-REF | 图表和可视化                 |[Visualizations](https://ntbk.io/ml-ref-visualizations)| [Visualizations](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/REF-Graphs%20and%20Visualizations.ipynb)
-REF | Kaggle 比赛 (Titanic 数据集)      |[Kaggle](https://ntbk.io/ml-ref-kaggle-titanic)        | [Kaggle](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/REF-Kaggle%20with%20Titanic%20Dataset.ipynb) 
+REF | 使用 DataFrame 进行数据处理             |[Data Frame](https://ntbk.io/ml-ref-data-frame)        | [Data Frame](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/REF-Data%20Processing%20with%20DataFrame.ipynb)               
+REF | 图表和可视化                 |[Visualizations](https://ntbk.io/ml-ref-visualizations)| [Visualizations](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/REF-Graphs%20and%20Visualizations.ipynb)
+REF | Kaggle 比赛 (Titanic 数据集)      |[Kaggle](https://ntbk.io/ml-ref-kaggle-titanic)        | [Kaggle](https://github.com/kinfey/csharp-notebooks/blob/main/machine-learning/REF-Kaggle%20with%20Titanic%20Dataset.ipynb) 
 
 ## **.NET 基金会**
 
